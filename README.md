@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Software Engineer Trainee<br><br>🌱 I’m currently learning CI/CD<br>💬 Ask me about data flow <br>⚡ Fun fact i <3 chess
+🔭 I’m currently Software Engineer <br><br>🌱 I’m currently learning CI/CD<br>💬 Ask me about data flow <br>⚡ Fun fact i <3 chess
 
 
 # 💻 Tech Stack:
